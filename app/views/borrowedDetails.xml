@@ -1,0 +1,8 @@
+<Alloy>
+	<Window>
+		<ImageView id="photoImageView" class="top20"></ImageView>
+		<Label id="borrowedThingLabel" class="top20"></Label>
+		<Button id="returnedToOwnerButton" class="top20 defaultButton"
+			onClick="returnedToOwner"></Button>
+	</Window>
+</Alloy>

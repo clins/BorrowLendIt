@@ -1,0 +1,36 @@
+"TextField":{
+	borderStyle:Ti.UI.INPUT_BORDERSTYLE_ROUNDED,
+	left:20,
+	right:20,
+	height:40,
+}
+
+"#whatBorrowTextField":{
+	hintText:L('what_borrow')
+}
+
+"#whoBorrowTextField":{
+	hintText:L('who_borrow')
+}
+
+"#whereBorrowTextField":{
+	hintText:L('where_borrow')
+}
+
+"#saveButton":{
+	titleid:'save'
+}
+
+"#closeButton[platform=ios]":{
+	titleid:'close'
+}
+
+"Window":{
+	titleid:'new_borrow'
+}
+
+"#photoImageView":{
+	width:150,
+	height:120,
+	image:'/images/borrowlend.png'
+}

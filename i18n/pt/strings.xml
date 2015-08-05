@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="lent">Emprestei</string>
+	<string name="borrowed">Pedi Emprestado</string>
+	<string name="still_lent">Ainda Emprestado</string>
+	<string name="still_borrowed">Ainda Emprestado</string>
+	<string name="gave_me_back">Devolvido</string>
+	<string name="returned_to_owner">Devolvido</string>
+	<string name="add">Adicionar</string>
+	<string name="close">Fechar</string>
+	<string name="new_lend">Emprestar</string>	
+	<string name="what_lend">O que?</string>	
+	<string name="who_lend">Quem?</string>	
+	<string name="where_lend">Onde?</string>	
+	<string name="new_borrow">Pedir Emprestado</string>	
+	<string name="what_borrow">O que?</string>	
+	<string name="who_borrow">Quem?</string>	
+	<string name="where_borrow">Onde?</string>	
+	<string name="save">Salvar</string>
+	<string name="add_photo">Adicionar Foto</string>
+	<string name="to">para</string>
+	<string name="at">em</string>
+	<string name="from">de</string>
+	<string name="camera_error">Erro na Câmera</string>
+	<string name="camera_error_details">Seu dispositivo precisa de uma câmera para adicionar uma foto</string>			
+	<string name="geo_error">Geolocalização desligada</string>
+	<string name="geo_error_details">Geolocalização está desligada no dispositivo. Não é possível determinar a localização.</string>
+	<string name="map_button">Exibir no Mapa</string>
+</resources>	

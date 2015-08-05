@@ -1,0 +1,13 @@
+"#gaveMeBackButton":{
+	titleid:'gave_me_back'
+}
+
+"#photoImageView":{
+	width:150,
+	height:120,
+	image:'/images/borrowlend.png'
+}
+
+"#mapButton":{
+	titleid:'map_button'
+}

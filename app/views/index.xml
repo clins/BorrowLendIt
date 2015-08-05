@@ -1,0 +1,9 @@
+<Alloy>
+	<TabGroup>
+		<Menu platform="android">
+			<MenuItem id="addLentMenu" onClick="addLent"></MenuItem>
+		</Menu>
+		<Require src="lent"></Require>
+		<Require src="borrowed"></Require>
+	</TabGroup>
+</Alloy>

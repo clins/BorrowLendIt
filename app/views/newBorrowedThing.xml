@@ -1,0 +1,11 @@
+<Alloy>
+	<Window id="newBorrowedThingWindow"> 
+		<RightNavButton platform="ios">
+			<Button id="closeButton" onClick="close"></Button>
+		</RightNavButton>
+		<ImageView id="photoImageView" class="top20" onClick="takePhoto"></ImageView>
+		<TextField class="top20" id="whatBorrowTextField"></TextField>
+		<TextField class="top20" id="whoBorrowTextField"></TextField>
+		<Button onClick="save" id="saveButton" class="top20 defaultButton"></Button>
+	</Window>
+</Alloy>

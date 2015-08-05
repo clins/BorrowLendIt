@@ -1,0 +1,8 @@
+<Alloy>
+	<Window>
+		<RightNavButton platform="ios">
+			<Button id="closeButton"
+			onClick="close"></Button>
+		</RightNavButton>
+	</Window>
+</Alloy>

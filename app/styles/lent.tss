@@ -1,0 +1,11 @@
+"Tab":{
+	titleid:'lent'
+}
+
+"#lentWindow":{
+	titleid:'lent'
+}
+
+"#lendThingButton[platform=ios]":{
+	systemButton: Ti.UI.iPhone.SystemButton.ADD
+}

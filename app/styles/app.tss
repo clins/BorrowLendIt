@@ -1,0 +1,21 @@
+"Window[platform=ios]":{
+	backgroundColor:'#fff'
+}
+
+"Window":{
+	layout:"vertical",
+	orientationModes:[Titanium.UI.PORTRAIT, Ti.UI.LANDSCAPE_RIGHT, Ti.UI.LANDSCAPE_LEFT]
+}
+
+"TableViewRow[platform=android]":{
+	height:48
+}
+
+".top20":{
+	top:20
+}
+
+".defaultButton":{
+	left:20,
+	right:20
+}

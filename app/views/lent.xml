@@ -1,0 +1,14 @@
+<Alloy>
+	<Tab id="lentTab">
+		<Window id="lentWindow">
+			<RightNavButton platform="ios">
+				<Button id="lendThingButton" onClick="lendThing"></Button>
+			</RightNavButton>
+			<TableView onClick="showDetails" 
+				dataCollection="BorrowedLentThing"
+				dataFilter="lentFilter">
+				<TableViewRow rowid="{alloy_id}" title="{whatDescription} - {whoName}"></TableViewRow>
+			</TableView>			
+		</Window>
+	</Tab>
+</Alloy>

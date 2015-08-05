@@ -1,0 +1,11 @@
+<Alloy>
+	<Tab id="borrowedTab">
+		<Window id="borrowedWindow">
+			<TableView onClick="showDetails" 
+				dataCollection="BorrowedLentThing"
+				dataFilter="borrowedFilter">
+				<TableViewRow rowid="{alloy_id}" title="{whatDescription} - {whoName}"></TableViewRow>
+			</TableView>			
+		</Window>
+	</Tab>
+</Alloy>

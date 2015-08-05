@@ -1,0 +1,12 @@
+<Alloy>
+	<Window id="newLentThingWindow"> 
+		<RightNavButton platform="ios">
+			<Button id="closeButton" onClick="close"></Button>
+		</RightNavButton>
+		<ImageView id="photoImageView" class="top20" onClick="takePhoto"></ImageView>
+		<TextField class="top20" id="whatLendTextField"></TextField>
+		<TextField class="top20" id="whoLendTextField"></TextField>
+		<TextField class="top20" id="whereLendTextField"></TextField>
+		<Button onClick="save" id="saveButton" class="top20 defaultButton"></Button>
+	</Window>
+</Alloy>

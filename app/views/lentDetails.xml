@@ -1,0 +1,11 @@
+<Alloy>
+	<Window>
+		<ImageView id="photoImageView" class="top20"></ImageView>
+		<Label id="lentThingLabel" class="top20"></Label>
+		<Label id="whereLentThingLabel" class="top20"></Label>
+		<Button id="mapButton" class="top20 defaultButton"
+			onClick="showMap"></Button>
+		<Button id="gaveMeBackButton" class="top20 defaultButton"
+			onClick="gaveMeBack"></Button>
+	</Window>
+</Alloy>
