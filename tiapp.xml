@@ -41,9 +41,9 @@
     <android xmlns:android="http://schemas.android.com/apk/res/android" >
         <manifest>
             <application>
-                <!-- Replace "PASTE YOUR GOOGLE MAPS API KEY HERE" with the Google API key you obtained -->
+                <!-- Replace "PASTE YOUR GOOGLE MAPS API KEY HERE" with the Google API key you obtained AIzaSyDysWi7KDZA4ryEzVqML5fw83Sy_RzwKx4 -->
                 <meta-data
-                    android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyDysWi7KDZA4ryEzVqML5fw83Sy_RzwKx4"/>
+                    android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyD22npZZ4PHkrW8Do5ULPGNS-N9W99ma0k"/>
             </application>
         </manifest>
     </android>
